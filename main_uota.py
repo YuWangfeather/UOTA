@@ -1,5 +1,6 @@
-# based on:
+# The uota code is developed based on the contribution of facebook swav:
 # https://github.com/facebookresearch/swav/blob/master/main_swav.py
+# The code is written by Yu Wang and Jingyang Lin
 
 import argparse
 import math
